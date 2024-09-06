@@ -2,7 +2,7 @@ import React from "react";
 
 interface InputProsp {
   id: string;
-  onChange: string;
+  onChange: any;
   value: string;
   lable: string;
   type?: string;
